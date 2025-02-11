@@ -23,18 +23,20 @@ Puzzle Type          Heuristic  Average Steps to Solution  Average Nodes Expande
 ```
 
 ### How to run the code:
-1. Install the numpy library:
+#### 1. Install the numpy library:
 ```plaintext
 pip install numpy
 ```
-2. Install the pandas library:
+#### 2. Install the pandas library:
 ```plaintext
 pip install pandas
 ```
 
-3. Download **t01.py** in the **"group20_a1"** folder
-4. Open **t01.py** in a code editor (Ex. VS Code, Eclipse, etc)
-5. Run the code in the code editor and look at the terminal
+#### 3. Download **t01.py** in the **"group20_a1"** folder
+
+#### 4. Open **t01.py** in a code editor (Ex. VS Code, Eclipse, etc)
+
+#### 5. Run the code in the code editor and look at the terminal
 
 ## Task II:
 ### Instructions:
