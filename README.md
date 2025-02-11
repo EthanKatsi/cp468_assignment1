@@ -5,7 +5,7 @@
 ### Instructions:
 
 This code implements the A* algorithm for the 8-puzzle, with heuristics:
-Heuristics:
+
 **h1:** Misplaced Tiles
 
 **h2:** Manhattan Distance
