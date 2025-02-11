@@ -4,7 +4,23 @@
 
 ### Instructions:
 
-Implement the A* algorithm for the 8-puzzle, with heuristics h 1 and h 2 , as discussed in the course textbook. Generate randomly 100 reachable states of the 8-puzzle, solve them with h 1 and h 2 and record in a table the number of steps to find the solution and the number of nodes expanded by A* in each case. Find a third heuristic (h 3 ) for the 8-puzzle from the literature and repeat the 3 above to complete the table. Based on the table, comment on the performance of the three heuristics h1, h2, h3.
+This code implements the A* algorithm for the 8-puzzle, with heuristics:
+Heuristics:
+**h1:** Misplaced Tiles
+
+**h2:** Manhattan Distance
+
+**h3:** Linear Conflict
+
+The code generates 100 randomly reachable states of the 8-puzzle, solves them with h1 and h2 and records in a table the number of steps to find the solution and the number of nodes expanded by A* in each case.
+
+Sample output:
+'''
+Puzzle Type          Heuristic  Average Steps to Solution  Average Nodes Expanded
+   8-puzzle    misplaced_tiles                      22.13                16395.81
+   8-puzzle manhattan_distance                      22.13                 1188.36
+   8-puzzle    linear_conflict                      22.13                  644.90
+'''
 
 ### How to run the code:
 
