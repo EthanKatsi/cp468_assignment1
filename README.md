@@ -36,7 +36,7 @@ pip install pandas
 
 #### 4. Open **t01.py** in a code editor (Ex. VS Code, Eclipse, etc)
 
-#### 5. Run the code in the code editor and it should print the table in the terminal.
+#### 5. Run the code in the code editor and it should print the table in the terminal
 
 ## Task II:
 ### Instructions:
