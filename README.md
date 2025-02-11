@@ -23,7 +23,14 @@ Puzzle Type          Heuristic  Average Steps to Solution  Average Nodes Expande
 ```
 
 ### How to run the code:
-
+Install the numpy library:
+```plaintext
+pip install numpy
+```
+Install the pandas library:
+```plaintext
+pip install pandas
+```
 
 ## Task II:
 ### Instructions:
